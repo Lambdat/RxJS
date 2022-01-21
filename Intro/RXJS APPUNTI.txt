@@ -1,0 +1,9 @@
+ReactiveX è un api per effettuare chiamate asincrone con dei flussi osservabili(observable)
+Rxjs è la versione per JavaScript
+
+per iniziare lanciare i comandi: 
+- node init -y  => avviare un ambiente node
+- npm install rxjs
+- npm install -D @types/node => installazione elementi necessari per utilizzare il TypeScript *
+
+* OPPURE nel file package.json aggiungere "type": "module" sotto "main": "... .js",
